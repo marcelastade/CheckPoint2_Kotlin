@@ -100,6 +100,7 @@ Se a reposta tiver erro:
     
         - a URL da API (https://www.mercadobitcoin.net/);
         - o conversor JSON GsonConverterFactory
+          
     
         ```kotlin
         class MercadoBitcoinServiceFactory {
