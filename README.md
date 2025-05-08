@@ -93,6 +93,7 @@ Se a reposta tiver erro:
        A classe MercadoBitcoinServiceFactory é utilizada para criar e configurar o Retrofit.
    
        O que é o Retrofit?
+       
        O Retrofit é uma biblioteca cliente HTTP para Android e Java/Kotlin, que simplifica a comunicação com APIs REST, permitindo transformar respostas JSON diretamente em objetos Kotlin por meio de interfaces.
 
        Para isso, utiliza:
